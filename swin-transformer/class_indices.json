@@ -1,0 +1,22 @@
+{
+    "0": "fuhe_down",
+    "1": "fuhe_down_up",
+    "2": "fuhe_up",
+    "3": "fuhe_up_down",
+    "4": "gunzhu_down",
+    "5": "gunzhu_down_up",
+    "6": "gunzhu_up",
+    "7": "gunzhu_up_down",
+    "8": "health_down",
+    "9": "health_down_up",
+    "10": "health_up",
+    "11": "health_up_down",
+    "12": "inner_down",
+    "13": "inner_down_up",
+    "14": "inner_up",
+    "15": "inner_up_down",
+    "16": "outer_down",
+    "17": "outer_down_up",
+    "18": "outer_up",
+    "19": "outer_up_down"
+}
